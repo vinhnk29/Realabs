@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap');
+
+body {
+  color: black !important;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Exo', sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#navbarNav {
+  margin-left: 35%;
+}
+
+.navbar-brand {
+  margin-left: 5%;
+}
+
+.nav-link {
+  margin-right: 35px;
+}
+
+#content {
+  width: 30%;
+}
+
+.programs {
+  text-align: left !important;
+}
+
+.container-fluid {
+  align-items: flex-start !important;
+  text-align: left !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black !important;
+}
+
+.nav-link.btn {
+  border-radius: 5px;
+  width: 75px;
+  background-color: #FFD000;
+}
+
+/* Home */
+
+#home1-1 {
+  width: 590px;
+  height: 523px;
+}
+
+.home-1 {
+  flex-direction: row !important;
+}
+
+.cont-2 {
+  flex-direction: row !important;
+}
+
+#cont-1 {
+  width: 23%;
+  margin-left: 10%;
+  margin-top: 12%;
+  margin-right: 10%;
+}
+
+#cont-1 h1 {
+  font-weight: bold;
+}
+
+#cont-1 p {
+  font-size: 20px;
+}
+
+.home-2 {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.home2-pic {
+  width: 50%;
+  height: 50%;
+  margin-left: 23%;
+  margin-bottom: 5%;
+}
+
+.card {
+  border-radius: 50px !important;
+  margin-right: 1%;
+  border: solid #282c34 2px !important;
+  margin-bottom: 5%;
+  box-shadow: 5px 5px #FFD000;
+}
+
+.cont-card h5 {
+  font-weight: bold;
+}
+
+.home-2 .card:hover {
+  background-image: url("components/images/cover2.png");
+}
+
+.btn-outline-primary {
+  color: white !important;
+  background-color: #FFD000 !important;
+}
+
+.btn-outline-primary:hover {
+  color: #FFD000 !important;
+  border-color: #FFD000 !important;
+  background-color: white !important;
+}
+
+.home-2 h3 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+.home-3 {
+  flex-direction: row !important;
+}
+
+.home-3 .card:hover {
+  background-image: url("components/images/cover2.png");
+}
+
+.home3-lan {
+  width: 209px;
+  height: 200px;
+}
+
+.home3-lan h1 {
+  font-weight: bold;
+  margin-top: 50%;
+}
+
+.home3-cont {
+  margin-right: 10%;
+}
+
+#home31 {
+  margin-right: 3%;
+  margin-left: 10%;
+}
+
+#home32 {
+  margin-right: 8%;
+  margin-top: 10%;
+  width: 60%;
+  height: 200px;
+}
+
+#home32 h1 {
+  font-weight: bold;
+  margin-top: 50%;
+}
+
+#home33 {
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+#home33 h2 {
+  font-weight: bold;
+}
+
+#home33 p {
+  font-size: 20px;
+}
+
+.home-4 {
+  margin-top: 10%;
+  background-image: url("components/images/cover2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 5%;
+}
+
+.home-4 h3 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 3%;
+}
+
+.cont-4 {
+  flex-direction: row !important;
+  height: 120%;
+}
+
+.home4-pic {
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-bottom: 5%;
+}
+
+.more-btn {
+  margin-left: 40%;
+}
+
+/*Login*/
+
+#login-main {
+  background-image: url("components/images/login-back.png");
+  height: 500px;
+  margin-bottom: 10%;
+  margin-top: 8%;
+}
+
+.login{
+  width: 35%;
+  height: auto;
+  margin-bottom: 10%;
+  margin-left: 32%;
+  border-color: #FFD000 !important;
+  color: #FFD000;
+  padding-left: 10px !important;
+}
+
+.login h1 {
+  margin-bottom: 5%;
+}
+
+.login-ele {
+  margin-bottom: 5%;
+  border-radius: 10px;
+  border-color: grey;
+  margin-left: 5%;
+}
+
+.login-btn {
+  margin-left: 5%;
+}
+
+.signin-btn {
+  width: 95%;
+  margin-left: 5%;
+}
+
+.login-input {
+  height: 2.7rem !important;
+  border: grey 100px;
+}
+
+#input-mail {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 95%;
+  margin-left: 5%;
+}
+
+#input-pass{
+  margin-bottom: 5%;
+  width: 95%;
+  margin-left: 5%;
+}
+
+.login-icon {
+  margin-right: 5px;
+}
+
+/* Sign up */
+
+.signup {
+  flex-direction: row !important;
+  margin-left: 2%;
+  color: #FFD000;
+  border-color: #FFD000 !important;
+}
+
+#signup-main {
+  margin-top: 3%;
+  margin-bottom: 10%;
+}
+
+#bnashor {
+  width: 50%;
+  height: 50%;
+  margin-top: 5%;
+}
+
+.signup-cont h1 {
+  margin-bottom: 5%;
+}
+
+#input-name {
+  width: 57%;
+  margin-left: 4%;
+  margin-right: 5%;
+}
+
+
+
+
