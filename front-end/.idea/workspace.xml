@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f40738f-1061-42ae-a121-e1c2a7174135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/images/138791214_345561449746518_3273097103716658674_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/24796 [Converted]-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/24796 [Converted]-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/cover2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/fast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/google-plus 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/home1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/login-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/management.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/practice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/images/realtime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layouts/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Signup.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1n9Vrr4PN7oyRvjRFDyNXd7gUKC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project-travel/SCuis-Vietnam/scuis-vietnam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Realabs\Realabs\front-end\src\components\pages" />
+      <recent name="C:\Users\Admin\Desktop\Realabs\Realabs\front-end\src\components\layouts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f40738f-1061-42ae-a121-e1c2a7174135" name="Default Changelist" comment="" />
+      <created>1610802495779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610802495779</updated>
+      <workItem from="1610802498252" duration="1270000" />
+      <workItem from="1610923067984" duration="8156000" />
+      <workItem from="1610960289025" duration="6543000" />
+      <workItem from="1610976580710" duration="690000" />
+      <workItem from="1610986165522" duration="3321000" />
+      <workItem from="1611020493717" duration="4889000" />
+      <workItem from="1611037868413" duration="9683000" />
+      <workItem from="1611054303214" duration="3745000" />
+      <workItem from="1611072931495" duration="1888000" />
+      <workItem from="1611106897509" duration="159000" />
+      <workItem from="1611123902721" duration="1680000" />
+      <workItem from="1611158608389" duration="2933000" />
+      <workItem from="1611201406395" duration="3478000" />
+      <workItem from="1611211000601" duration="1225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
