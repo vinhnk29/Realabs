@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f40738f-1061-42ae-a121-e1c2a7174135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/images/138791214_345561449746518_3273097103716658674_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/24796 [Converted]-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/24796 [Converted]-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/cover2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/fast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/google-plus 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/home1-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/login-back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/practice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/images/realtime.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Signup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/demo/Demo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Login.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +67,11 @@
       <workItem from="1611158608389" duration="2933000" />
       <workItem from="1611201406395" duration="3478000" />
       <workItem from="1611211000601" duration="1225000" />
+      <workItem from="1611212664887" duration="2109000" />
+      <workItem from="1611409672916" duration="3374000" />
+      <workItem from="1611470250635" duration="539000" />
+      <workItem from="1611471547561" duration="214000" />
+      <workItem from="1612404434291" duration="380000" />
     </task>
     <servers />
   </component>
