@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f40738f-1061-42ae-a121-e1c2a7174135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/images/Teacher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Student.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/demo/Demo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Teacher.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pages/Teacher.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/Teacher.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project-travel/SCuis-Vietnam/scuis-vietnam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,6 +37,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -76,7 +76,7 @@
       <workItem from="1612685430887" duration="1394000" />
       <workItem from="1613018173879" duration="41000" />
       <workItem from="1613533584412" duration="2000" />
-      <workItem from="1613637925921" duration="1755000" />
+      <workItem from="1613637925921" duration="3185000" />
     </task>
     <servers />
   </component>
