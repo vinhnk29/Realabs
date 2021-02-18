@@ -7,6 +7,7 @@ import {Home} from "./components/pages/Home";
 import {Footer} from "./components/layouts/Footer";
 import {Login} from "./components/pages/Login";
 import {Signup} from "./components/pages/Signup";
+import {Teacher} from "./components/pages/Teacher";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route component={Home} path="/" exact />
             <Route component={Login} path="/login" exact />
             <Route component={Signup} path="/signup" exact />
+            <Route component={Teacher} path="/teacher" exact />
           </Switch>
           <Footer/>
         </div>
