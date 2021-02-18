@@ -8,6 +8,7 @@ import {Footer} from "./components/layouts/Footer";
 import {Login} from "./components/pages/Login";
 import {Signup} from "./components/pages/Signup";
 import {Teacher} from "./components/pages/Teacher";
+import {Student} from "./components/pages/Student";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route component={Login} path="/login" exact />
             <Route component={Signup} path="/signup" exact />
             <Route component={Teacher} path="/teacher" exact />
+            <Route component={Student} path="/student" exact />
           </Switch>
           <Footer/>
         </div>
