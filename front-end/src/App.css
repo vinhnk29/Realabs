@@ -122,7 +122,7 @@ body {
 }
 
 .card {
-  border-radius: 50px !important;
+  border-radius: 52px !important;
   margin-right: 1%;
   border: solid #282c34 2px !important;
   margin-bottom: 5%;
@@ -328,6 +328,59 @@ body {
   margin-right: 5%;
 }
 
+/* Teacher */
 
+.teacher {
+  margin-left: 2%;
+  margin-bottom: 5%;
+}
 
+.teacher-card {
+  padding: 0 !important;
+  border: 1px #FFD000 !important;
+  box-shadow: 1px 1px 1px 1px gray !important;
+  height: auto;
+  margin-right: 2%;
+}
+
+.teacher h1 {
+  margin-bottom: 10%;
+  font-weight: bold;
+}
+
+#teacher-img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 3%;
+}
+
+.teacher-top {
+  background-color: #FFD000;
+  border-radius: 52px 52px 0px 0px;
+  height: auto;
+}
+
+.teacher-top h3 {
+  font-weight: bold;
+  margin-top: 15%;
+  margin-left: 8%;
+}
+
+.teacher-pic {
+  width: 40%;
+  margin-left: 20%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.teacher-cont-card p {
+  text-align: left;
+  margin-left: 8%;
+  margin-top: 5%;
+}
+
+.hr-yel {
+  height: 5px;
+  color: #FFD000 !important;
+}
 
