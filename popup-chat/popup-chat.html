@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: sans-serif;}
+* {box-sizing: border-box;}
+
+.open-button {
+  background-color: #1A73E8;
+  color: white;
+  padding: 0px 16px 20px 25px;
+  border: none;
+  opacity: 0.8;
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.chat-popup {
+  display: none;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  width: 30%;
+  z-index: 1;
+}
+
+.form-container {
+  padding: 10px;
+  background-color: white;
+}
+
+.form-container textarea {
+  width: 100%;
+  height: 1%;
+  padding: 10px 5px 0px 10px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+}
+
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+.btn-chat {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn-chat img {
+  margin-right: 20%;
+  margin-top: 28%;
+  width: 20px; 
+  height: 20px;
+}
+
+.btn-chat p {
+  border: 1px solid gray;
+  padding: 3px;
+  background-color: gray;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.btn img {
+  width: 20px;
+}
+
+.form-chat {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn {
+  background-color: white;
+  border: none;
+}
+
+#btn-close {
+  margin-left: 90%;
+}
+
+#btn-send {
+  margin-bottom: 5%;
+}
+
+.box-chat {
+  height: 300px;
+}
+</style>
+</head>
+<body>
+
+<button class="open-button" onclick="openForm()">
+  <span class="btn-chat">
+    <img src="images/people.png"/>
+    <p>0</p>
+  </span>
+</button>
+
+<div class="chat-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <button type="button" class="btn" onclick="closeForm()" id="btn-close"><img src="images/cancel.png"></button>
+    <div class="box-chat">
+      
+    </div>
+    <div class="form-chat">
+      <textarea placeholder="Type a message" name="msg" required></textarea>
+      <button type="submit" class="btn" id="btn-send"><img src="images/send-button.png"></button>
+    </div>
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
+</body>
+</html>
